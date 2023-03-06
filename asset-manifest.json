@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/victorpalha.github.io/static/css/main.073c9b0a.css",
+    "main.js": "/victorpalha.github.io/static/js/main.b4f5758c.js",
+    "static/js/787.fe233384.chunk.js": "/victorpalha.github.io/static/js/787.fe233384.chunk.js",
+    "static/media/logo.svg": "/victorpalha.github.io/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/victorpalha.github.io/index.html",
+    "main.073c9b0a.css.map": "/victorpalha.github.io/static/css/main.073c9b0a.css.map",
+    "main.b4f5758c.js.map": "/victorpalha.github.io/static/js/main.b4f5758c.js.map",
+    "787.fe233384.chunk.js.map": "/victorpalha.github.io/static/js/787.fe233384.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.b4f5758c.js"
+  ]
+}
