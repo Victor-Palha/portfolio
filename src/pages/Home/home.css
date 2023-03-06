@@ -1,0 +1,15 @@
+.conteiner{
+    display: flex;
+    justify-content: space-between;
+    padding: 5%;
+}
+.information{
+    width: 50%;
+    padding: 5%;
+    color: #8A8A8A;
+}
+.foto img{
+    opacity: 0.8;
+    border-radius: 50px 20px;
+    box-shadow: 10px 6px 10px #101026;
+}
