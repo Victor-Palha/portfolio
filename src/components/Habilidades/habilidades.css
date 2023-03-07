@@ -31,3 +31,11 @@
         width: 100%;
     }
 }
+@media screen and (max-width: 400px) {
+    .grid .tecs{
+        margin: 1rem 5px ;
+    }
+    .grid .tecs .icons{
+        padding: 1rem 1rem 3rem 1rem;
+    }
+}

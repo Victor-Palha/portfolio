@@ -23,3 +23,12 @@
     color: #8A8A8A;
     text-shadow: 0px 10px 7px #000;
 }
+
+@media screen and (max-width: 1215px){
+    .fonts{
+        flex-direction: column;
+    }
+    .fonts .each{
+        margin: 1rem;
+    }
+}

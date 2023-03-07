@@ -59,3 +59,8 @@
         width: 80%;
     }
 }
+@media screen and (max-width: 400px) {
+    .about .sobre{
+        line-height: 1.5;
+    }
+}
