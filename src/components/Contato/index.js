@@ -7,6 +7,7 @@ import {BsLinkedin, BsGithub, BsWhatsapp} from "react-icons/bs"
 import {SiGmail} from "react-icons/si"
 
 const Contato = () => {
+  Aos.init({duration: 800})
   return (
     <div className='contato' data-aos="flip-left">
         <h2>Contatos</h2>
@@ -20,7 +21,7 @@ const Contato = () => {
             <span>@João Victor Ferreira Palha</span>
           </div>
           <div className="each">
-            <a href="https://wa.me/55091989700567" target="_blank" rel='author'><BsWhatsapp size={50} color="#25D366"/></a>
+            <a href="https://wa.me/55091989700567" target="_blank" rel='noreferrer'><BsWhatsapp size={50} color="#25D366"/></a>
             <span>(91) 98970-0567</span>
           </div>
           <div className="each">
